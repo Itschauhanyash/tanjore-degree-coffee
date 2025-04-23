@@ -2,9 +2,6 @@
 
 A modern, responsive website for Tanjore Degree Coffee built with Next.js, React, and Tailwind CSS.
 
-## 🚀 Live Demo
-[Add your website URL once deployed]
-
 ## ✨ Features
 
 - Responsive design for all devices
